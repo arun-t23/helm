@@ -1,0 +1,7 @@
+### mandatory thingd in helm charts
+
+apiVersion: v2
+name: nginx
+version: 1.0.0 ## chart version
+description: nginx helm chart
+appVersion: latest ## this is application version
